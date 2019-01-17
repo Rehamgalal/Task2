@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">رقم 2</string>
+    <string name="title">التسجيل</string>
+    <string name="terms">بالضغط على زر التسجيل تعني الموافقة على الشروط والأحكام</string>
+    <string name="button">تغيير اللغة</string>
+    <string name="toast">من فضلك ادخل الكود والبلد متطابقين</string>
+    <string name="name">الاسم الكامل</string>
+    <string name="password">الرقم السري</string>
+    <string name="nubmer">12345</string>
+    <string name="mail">البريد الإلكتروني</string>
+    <string name="code">كود</string>
+    <string name="country">البلد</string>
+    <string name="city">المدينة</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">task 2</string>
+    <string name="title">Register</string>
+    <string name="terms">By Clicking Register You Agree To terms and conditions</string>
+    <string name="button">Change language</string>
+    <string name="toast">please enter the right code and country</string>
+    <string name="name">Full Name</string>
+    <string name="password">Password</string>
+    <string name="nubmer">12345</string>
+    <string name="mail">Email</string>
+</resources>
